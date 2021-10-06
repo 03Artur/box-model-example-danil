@@ -1,0 +1,11 @@
+
+.pizdez {
+    background-color: dodgerblue;
+    width: 750px;
+    height: 150px;
+
+    padding: 40px;
+    border: solid 20px red;
+
+    box-sizing: border-box;
+}
